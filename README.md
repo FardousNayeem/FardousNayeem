@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=500&duration=2800&color=56D3F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Fardous+Nayeem" alt="Typing SVG" />
   </a>
 </h1>
-**About Me**<br><br>Hello! My name is Nafis Rayan, I'm a part-time Software Engineer, also pursuing a Bachelor of Science in Computer Science & Engineering at BRAC University, with an expected graduation year of 2025.<br><br><br>- **Proficient Languages:** HTML & CSS, C & C++, JavaScript, Python, Dart.<br>- **Frameworks & Tools:** ReactJS, NextJS, NodeJS, Flask, Django, ThreeJS, Blender.<br>- **Expertise:** Web & App Development, Data Analysis, Machine Learning, UI/UX Design, Computer Vision.<br><br>Feel free to reach out to me if you have any questions or would like to discuss potential collaborations or opportunities.
+**About Me**<br><br>I'm Fardous Nayeem, I'm a Full-Stack Developer and Cyber Security Enthusiast. I completed my Bachelor of Science in Computer Science at BRAC University.<br><br><br>- **Proficient Languages:** HTML & CSS, C & C++, JavaScript, Python, Dart.<br>- **Frameworks & Tools:** ReactJS, NextJS, NodeJS, Flask, Django, ThreeJS, Blender.<br>- **Expertise:** Web & App Development, Data Analysis, Machine Learning, UI/UX Design, Cyber Security.<br><br>Feel free to reach out to me if you have any queries or about any potential collaborations or opportunities.
 
 
 <p align="left">
