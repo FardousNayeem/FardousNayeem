@@ -4,17 +4,17 @@
   </a>
 </h1>
 
-**💫 About Me**<br><br>I'm Fardous Nayeem from Dhaka, Bangladesh. I'm a Full-Stack Developer and Cyber Security Enthusiast. I earned my Bachelor of Science in Computer Science at BRAC University. <br><br>- 
-**Proficient Languages:** Python, Java, JavaScript, Dart, PHP.<br>- 
-**Frameworks & Tools:** Flask, Django, Flutter, Springboot, ReactJS, Boostrap, NodeJS.<br>- 
+****👨🏻‍💻 About Me****<br><br>I'm Fardous Nayeem from Dhaka, Bangladesh. I'm a Full-Stack Developer and Cyber Security Enthusiast. I earned my Bachelor of Science in Computer Science at BRAC University. <br><br>- 
+**Languages:** Python, Java, JavaScript, Dart, PHP.<br>- 
+**Frameworks & Tools:** Flask, Django, Flutter, Springboot, ReactJS, Boostrap, NodeJS, Docker, Postman, Firebase, MongoDB, Langchain.<br>- 
 **Expertise:** Web Development, Android App Development, Cyber Security & Machine Learning.<br><br>
 Feel free to reach out to me if you have any queries or about any potential collaborations or opportunities.
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=FardousNayeem&label=Profile%20views&color=orange&style=flat" alt="Fardous Nayeem" />
+  <img src="https://komarev.com/ghpvc/?username=FardousNayeem&label=Profile%20Views&color=orange&style=flat" alt="Fardous Nayeem" />
 </p>
 
-## 🌐 Socials:
+## 🌐 Let's Get Connected:
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/Fardous0Nayeem/) 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/irrelevant_00)
@@ -22,7 +22,7 @@ Feel free to reach out to me if you have any queries or about any potential coll
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fardousnayeem35@gmail.com)
 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 <!--<a href="https://git.io/streak-stats"><img src="https://nirzak-streak-stats.vercel.app?user=FardousNayeem&theme=dark&mode=weekly&card_width=500&card_height=200" alt="GitHub Streak" /></a>-->
 <!--<a href="https://git.io/streak-stats"><img src="https://nirzak-streak-stats.vercel.app?user=FardousNayeem&theme=dark&card_width=500&card_height=200" alt="GitHub Streak" /></a>-->
 
