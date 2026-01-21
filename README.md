@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-**About Me**<br><br>I'm Fardous Nayeem from Dhaka, Bangladesh. I'm a Full-Stack Developer and Cyber Security Enthusiast. I earned my Bachelor of Science in Computer Science at BRAC University. <br><br><br>- 
+**💫 About Me**<br><br>I'm Fardous Nayeem from Dhaka, Bangladesh. I'm a Full-Stack Developer and Cyber Security Enthusiast. I earned my Bachelor of Science in Computer Science at BRAC University. <br><br>- 
 **Proficient Languages:** Python, Java, JavaScript, Dart, PHP.<br>- 
 **Frameworks & Tools:** Flask, Django, Flutter, Springboot, ReactJS, Boostrap, NodeJS.<br>- 
 **Expertise:** Web Development, Android App Development, Cyber Security & Machine Learning.<br><br>
